@@ -35,6 +35,43 @@
 - Multi-threaded - Java's multithreading programming capability enables you to create a program that executes multiple tasks concurrently
 - Distributed -Java maintains the TCP/IP protocol and is therefore suitable for distributed Internet environments.
 
+## Main method
+`public static void main(String args[])`
+- The main () is the starting point for JVM to start execution of a Java program. 
+- Without the main () method, JVM will not execute the program. 
+- The syntax of the main () method is: 
+  - public: An access specifier, that is. Before calling the main() method, we need to use the public keyword to let the JVM know where the programme is actually being executed. Before the main() method, if we use private, protected, and default, the JVM won't be able to see it.
+  - static: You can make a method static by using the keyword static. We should call the main() method without creating an object. Static methods are the method which is invoked without creating the objects, so we do not need any object to call the main() method.
+  - void: In Java, every method has the return type. Void keyword acknowledges the compiler that the main() method does not return any value.
+  - main(): It is a default signature which is predefined in the JVM. It is called by JVM to execute a program line by line and end the execution after completion of this method. We can also overload the main() method.
+  - String args[]: The main() method also accepts some data from the user. It accepts a group of strings, which is called a string array. It is used to hold the command line arguments in the form of string values.
+    - Here, agrs[] is the array name, and it is of String type. It means that it can store a group of strings. 
+    - Remember, this array can also store a group of numbers but in the form of string only. 
+    - Values passed to the main() method are called arguments. These arguments are stored into an args[] array, so the name args[] is generally used for it.
+
+## Classes and Objects
+- An object is an entity with state and behaviour, such as a chair, bike, marker, pen, table, or car. It could be intellectual or physical (tangible and intangible).
+  - The banking system is an illustration of an intangible entity.
+- An object has three characteristics
+  - State: represents an object's data (value)
+  - Behavior: represents how an object behaves (or how it functions), such as when you deposit or withdraw money
+  - Identity: Usually, a distinct ID is used to implement an object's identification. The external user cannot see the value of the ID. However, the JVM uses it internally to uniquely identify each object.
+- Pen, for instance, is an object. Reynolds is its name; its state is noted as being white. Writing is its behaviour because it is utilized for writing.
+- Different ways of Object Definition
+  - An object is a real-world entity
+  - An object is a runtime entity
+  - The object is an entity which has state and behaviour
+  - The object is an instance of a class.
+- A **class serves as a model or blueprint from which new objects can be made**.
+- Therefore, a class's instance (or result) is an object.
+- A class includes
+  - Fields
+  - Methods
+  - Con1tructors
+  - Blocks
+  - Nested class and interface
+
+
 ```
 git remote add origin https://github.com/sbhrwl/java.git
 git branch -M main
