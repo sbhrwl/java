@@ -35,6 +35,34 @@
 - Multi-threaded - Java's multithreading programming capability enables you to create a program that executes multiple tasks concurrently
 - Distributed -Java maintains the TCP/IP protocol and is therefore suitable for distributed Internet environments.
 
+## Platform independency
+- Platform = OS + Processor (Windows + Intel)
+- Java program (`.java` file) -> Compiler -> **Bytecode** (`.class` file) -> JVM converts it to MLL and executes
+- Same bytecode can be also be executed on other platforms (JVM knows how to do it) (32.7:00)
+- So Write Once and Run Anywhere (WORA)
+
+## Classes and Objects
+- An object is an entity with `state` (properties) and `behaviour` (methods), such as a chair, bike, marker, pen, table, or car. It could be intellectual or physical (tangible and intangible).
+  - The banking system is an illustration of an intangible entity.
+- An object has three characteristics
+  - State: represents an object's data (value)
+  - Behavior: represents how an object behaves (or how it functions), such as when you deposit or withdraw money
+  - Identity: Usually, a distinct ID is used to implement an object's identification. The external user cannot see the value of the ID. However, the JVM uses it internally to uniquely identify each object.
+- Pen, for instance, is an object. Reynolds is its name; its state is noted as being white. Writing is its behaviour because it is utilized for writing.
+- Different ways of Object Definition
+  - An object is a real-world entity
+  - An object is a runtime entity
+  - The object is an entity which has state and behaviour
+  - The object is an instance of a class.
+- A **class serves as a model or blueprint from which new objects can be made**.
+- Therefore, a class's instance (or result) is an object.
+- A class includes
+  - Fields
+  - Methods
+  - Constructors
+  - Blocks
+  - Nested class and interface
+
 ## Main method
 `public static void main(String args[])`
 - The main () is the starting point for JVM to start execution of a Java program. 
@@ -59,31 +87,11 @@
     - Remember, this array can also store a group of numbers but in the form of string only. 
     - Values passed to the main() method are called arguments. 
     - These arguments are stored into an args[] array, so the name args[] is generally used for it.
-
-## Classes and Objects
-- An object is an entity with state and behaviour, such as a chair, bike, marker, pen, table, or car. It could be intellectual or physical (tangible and intangible).
-  - The banking system is an illustration of an intangible entity.
-- An object has three characteristics
-  - State: represents an object's data (value)
-  - Behavior: represents how an object behaves (or how it functions), such as when you deposit or withdraw money
-  - Identity: Usually, a distinct ID is used to implement an object's identification. The external user cannot see the value of the ID. However, the JVM uses it internally to uniquely identify each object.
-- Pen, for instance, is an object. Reynolds is its name; its state is noted as being white. Writing is its behaviour because it is utilized for writing.
-- Different ways of Object Definition
-  - An object is a real-world entity
-  - An object is a runtime entity
-  - The object is an entity which has state and behaviour
-  - The object is an instance of a class.
-- A **class serves as a model or blueprint from which new objects can be made**.
-- Therefore, a class's instance (or result) is an object.
-- A class includes
-  - Fields
-  - Methods
-  - Constructors
-  - Blocks
-  - Nested class and interface
-
+- Other ways of writing main method
 ```
-git remote add origin https://github.com/sbhrwl/java.git
-git branch -M main
-git push -u origin main
+public static void main(String args[])
+public static void main(String []args)
+static public void main(String args[])
+static public void main(String ... args)
 ```
+
