@@ -41,7 +41,8 @@
 - Without the main () method, JVM will not execute the program. 
 - The syntax of the main () method is: 
   - public: An access specifier, that is. Before calling the main() method, we need to use the public keyword to let the JVM know where the programme is actually being executed. Before the main() method, if we use private, protected, and default, the JVM won't be able to see it.
-  - static: You can make a method static by using the keyword static. We should call the main() method without creating an object. Static methods are the method which is invoked without creating the objects, so we do not need any object to call the main() method.
+  - static: You can make a method static by using the keyword static. We should call the main() method without creating an object. 
+    - Static methods are the method which are invoked without creating the objects.
   - void: In Java, every method has the return type. Void keyword acknowledges the compiler that the main() method does not return any value.
   - main(): It is a default signature which is predefined in the JVM. It is called by JVM to execute a program line by line and end the execution after completion of this method. We can also overload the main() method.
   - String args[]: The main() method also accepts some data from the user. It accepts a group of strings, which is called a string array. It is used to hold the command line arguments in the form of string values.
