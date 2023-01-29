@@ -32,8 +32,8 @@
 - Loops intro
 - for - while - do while
 - More on loops
-- [Scanner class and User input in Java](lectures/7.PatternProgramming)
-- [Pattern programs](lectures/7.PatternProgramming)
+- [Scanner class and User input in Java](lectures/7.PatternProgramming.pdf)
+- [Pattern programs](lectures/7.PatternProgramming.pdf)
 - Nested loops
 - If else and nest loops to write complex patterns
 
