@@ -4,7 +4,7 @@
 - Components of Computer(Basic)
 - Important Components of Computer(Primary Memory, Processor, Secondary Memory)
 
-# (Version control system](lectures/2.VersionControlSystem.pdf)
+# [Version control system](lectures/2.VersionControlSystem.pdf)
 - Git foundation
 - Setting, maintaining and tracking git repos
 - Git snapshots
@@ -32,8 +32,8 @@
 - Loops intro
 - for - while - do while
 - More on loops
-- Scanner class and User input in Java
-- Pattern programs
+- [Scanner class and User input in Java](lectures/7.PatternProgramming)
+- [Pattern programs](lectures/7.PatternProgramming)
 - Nested loops
 - If else and nest loops to write complex patterns
 
