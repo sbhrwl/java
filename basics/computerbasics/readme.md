@@ -1,0 +1,17 @@
+## Programming language
+- Machine Level Language: 
+  - Low-level programming languages includes machine language.
+  - It is also known as object code or machine code. 
+  - Machine language is typically displayed in binary or hexahecimal form (base 16) form. 
+  - Since computers can read machine language programmes directly, there is no need for a translator to convert the programmes.
+  - Machine language has **executes code quickly** compared to high-level programming languages.
+- Assembly language: 
+  - Another form of low-level programming language created for certain processors is assembly language (ASM). 
+  - It gives the collection of directions in a symbolic and clear manner for humans to understand. 
+  - An assembler is used to translate assembly language into machine language.
+  - Assembly language has the benefit of **requiring less memory and less time to execute a program**.
+- High-level languages: 
+  - The high-level programming language (HLL) is made for creating user-friendly web pages and software applications. 
+  - The program must be converted into machine code using a **compiler or interpreter** when using this programming language.
+  - A high-level language's main benefit is that it is **simple to read, write, and maintain**.
+  - Python, Java, JavaScript, PHP, C#, C++, Objective C, Cobol, Perl, Pascal, LISP, FORTRAN, anh Swift are examples of high-level proframming languages.
