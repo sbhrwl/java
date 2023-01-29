@@ -1,4 +1,4 @@
-# Computer basics
+# [Computer basics](lectures/1.ComputerBasics.pdf)
 - What is a Computer ?
 - Classification of Computer (Based on Size, Work and Purpose)
 - Components of Computer(Basic)
