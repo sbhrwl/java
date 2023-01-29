@@ -7,7 +7,7 @@
 # [Version control system](lectures/2.VersionControlSystem.pdf)
 - Git foundation
 - Setting, maintaining and tracking git repos
-- Git snapshots
+- Git snapshots (commit is a snapshot in time)
 - [Git commands](lectures/3.GitCommands.pdf)
 - Git branches
 - Git merging
