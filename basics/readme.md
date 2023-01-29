@@ -4,25 +4,26 @@
 - Components of Computer(Basic)
 - Important Components of Computer(Primary Memory, Processor, Secondary Memory)
 
-# Git and Github
+# (Version control system](lectures/2.VersionControlSystem.pdf)
 - Git foundation
 - Setting, maintaining and tracking git repos
 - Git snapshots
+- [Git commands](lectures/3.GitCommands.pdf)
 - Git branches
 - Git merging
 - Git and Github ecosystem
 
-# Introduction to Java
+# [Introduction to Java](lectures/4.JavaFundamentals.pdf)
 - Introduction to Programming
 - Basic feature of Java
 - Main method
 - Classes and Objects (Basics)
 - Statically typed vs Dynamically types PL
-- Variables and data types
+- [Variables and data types](lectures/5.VariablesAndDatatypes.pdf)
 - Naming Convention
 - Identifiers
 
-# Operators and loops
+# [Operators and loops](lectures/6.OperatorsAndLoops.pdf)
 - Operators in Java
 - Incrementation and Decrementation
 - Conditional statement
