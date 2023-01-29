@@ -29,22 +29,27 @@ static public void main(String args[])
 static public void main(String ... args)
 ```
 - Classes and Objects (Basics)
-- Statically typed vs Dynamically types PL
-- [Variables and data types](lectures/5.VariablesAndDatatypes.pdf)
+# [Variables and data types](lectures/5.VariablesAndDatatypes.pdf)
+- Statically typed vs Dynamically types programming languages
 - Naming Convention
 - Identifiers
 
-# [Operators and loops](lectures/6.OperatorsAndLoops.pdf)
+# [Operators](lectures/6.Operators.pdf)
 - Operators in Java
 - Incrementation and Decrementation
-- Conditional statement
+
+# [Conditional statement](lectures/7.ConditionalStatements.pdf)
 - If - else / Ternary
 - Switch case
-- Loops intro
+
+# [Loops](lectures/8.Loops.pdf)
 - for - while - do while
 - More on loops
-- Scanner class and User input in Java
-- [Pattern programs](lectures/7.PatternProgramming.pdf)
+
+# [User input in Java](lectures/9.UserInput.pdf)
+- Scanner class
+
+# [Pattern programs](lectures/10.PatternProgramming.pdf)
 - Nested loops
 - If else and nest loops to write complex patterns
 
