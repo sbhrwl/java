@@ -16,7 +16,18 @@
 # [Introduction to Java](lectures/4.JavaFundamentals.pdf)
 - Introduction to Programming
 - Basic feature of Java
+  - Platform independency
+    - Platform = OS + Processor (Windows + Intel)
+    - Java program (`.java` file) -> Compiler -> **Bytecode** (`.class` file) -> JVM converts it to MLL and executes
+    - Same bytecode can be also be executed on other platforms (JVM knows how to do it) (32.7:00)
+    - So Write Once and Run Anywhere (WORA)
 - Main method
+```
+public static void main(String args[])
+public static void main(String []args)
+static public void main(String args[])
+static public void main(String ... args)
+```
 - Classes and Objects (Basics)
 - Statically typed vs Dynamically types PL
 - [Variables and data types](lectures/5.VariablesAndDatatypes.pdf)
@@ -37,7 +48,7 @@
 - Nested loops
 - If else and nest loops to write complex patterns
 
-# Ooops fundamentals
+# Oops fundamentals
 - Object creation
 - Instance variable vs local variables
 - Methods with memory maps (JVM data areas)
