@@ -1,10 +1,9 @@
-# [Computer basics](lectures/1.ComputerBasics.pdf)
+### [Computer basics](lectures/1.ComputerBasics.pdf)
 - What is a Computer ?
 - Classification of Computer (Based on Size, Work and Purpose)
 - Components of Computer(Basic)
 - Important Components of Computer(Primary Memory, Processor, Secondary Memory)
-
-# [Version control system](lectures/2.VersionControlSystem.pdf)
+### [Version control system](lectures/2.VersionControlSystem.pdf)
 - Git foundation
 - Setting, maintaining and tracking git repos
 - Git snapshots (commit is a snapshot in time)
@@ -12,8 +11,7 @@
 - Git branches
 - Git merging
 - [Git practice](https://github.com/sbhrwl/system_design/blob/main/docs/Other/git/Practice.md)
-
-# [Introduction to Java](lectures/4.JavaFundamentals.pdf)
+### [Introduction to Java](lectures/4.JavaFundamentals.pdf)
 - Introduction to Programming
 - Basic feature of Java
   - Platform independency
@@ -29,31 +27,25 @@ static public void main(String args[])
 static public void main(String ... args)
 ```
 - Classes and Objects (Basics)
-# [Variables and data types](lectures/5.VariablesAndDatatypes.pdf)
+### [Variables and data types](lectures/5.VariablesAndDatatypes.pdf)
 - Statically typed vs Dynamically types programming languages
 - Naming Convention
 - Identifiers
-
-# [Operators](lectures/6.Operators.pdf)
+### [Operators](lectures/6.Operators.pdf)
 - Operators in Java
 - Incrementation and Decrementation
-
-# [Conditional statement](lectures/7.ConditionalStatements.pdf)
+### [Conditional statement](lectures/7.ConditionalStatements.pdf)
 - If - else / Ternary
 - Switch case
-
-# [Loops](lectures/8.Loops.pdf)
+### [Loops](lectures/8.Loops.pdf)
 - for - while - do while
 - More on loops
-
-# [User input in Java](lectures/9.UserInput.pdf)
+### [User input in Java](lectures/9.UserInput.pdf)
 - Scanner class
-
-# [Pattern programs](lectures/10.PatternProgramming.pdf)
+### [Pattern programs](lectures/10.PatternProgramming.pdf)
 - Nested loops
 - If else and nest loops to write complex patterns
-
-# Oops fundamentals
+### Oops fundamentals
 - Object creation
 - Instance variable vs local variables
 - Methods with memory maps (JVM data areas)
