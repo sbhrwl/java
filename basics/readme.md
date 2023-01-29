@@ -27,7 +27,7 @@
 - Operators in Java
 - Incrementation and Decrementation
 - Conditional statement
-- If - else Ternary
+- If - else / Ternary
 - Switch case
 - Loops intro
 - for - while - do while
