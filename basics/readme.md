@@ -11,7 +11,7 @@
 - [Git commands](lectures/3.GitCommands.pdf)
 - Git branches
 - Git merging
-- Git and Github ecosystem
+- [Git practice](https://github.com/sbhrwl/system_design/blob/main/docs/Other/git/Practice.md)
 
 # [Introduction to Java](lectures/4.JavaFundamentals.pdf)
 - Introduction to Programming
