@@ -34,6 +34,7 @@ static public void main(String ... args)
 ### [Operators](lectures/6.Operators.pdf)
 - Operators in Java
 - Incrementation and Decrementation
+### [Exercises](exercises/basic1.java)
 ### [Conditional statement](lectures/7.ConditionalStatements.pdf)
 - If - else / Ternary
 - Switch case
@@ -54,6 +55,7 @@ Whereas
 ### [Pattern programs](lectures/10.PatternProgramming.pdf)
 - Nested loops
 - If else and nest loops to write complex patterns
+- [Pattern1](exercises/Pattern1.java), [Pattern2](exercises/Pattern2.java), [Pattern3](exercises/Pattern3.java) and [ComplexPattern](exercises/ComplexPattern.java)
 ### Oops fundamentals
 - Object creation
 - Instance variable vs local variables
