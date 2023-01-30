@@ -43,6 +43,8 @@ Whereas
 - Nested loops
 - If else and nest loops to write complex patterns
 - [Pattern1](exercises/Pattern1.java), [Pattern2](exercises/Pattern2.java), [Pattern3](exercises/Pattern3.java) and [ComplexPattern](exercises/ComplexPattern.java)
+```
+```
 ### [Computer basics](lectures/1.ComputerBasics.pdf)
 - What is a Computer ?
 - Classification of Computer (Based on Size, Work and Purpose)
