@@ -39,6 +39,15 @@ static public void main(String ... args)
 - Switch case
 ### [Loops](lectures/8.Loops.pdf)
 - for - while - do while
+```
+How to choose between while loop and for loop?
+Generally a while loop is used whenever the total number of iterations to be made is unknown. 
+- Use a for loop when you are traversing a data structure like an arrays
+- Use a for loop when you know that loop needs to run ‘n’ number of times.
+Whereas
+- Use a while loop when increment type is nonstandard like i = i * 2d
+- Use a while loop when you are unsure till when the loop will continue, like while finding the first number divisible by 13
+```
 - More on loops
 ### [User input in Java](lectures/9.UserInput.pdf)
 - Scanner class
