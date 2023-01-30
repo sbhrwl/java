@@ -1,16 +1,3 @@
-### [Computer basics](lectures/1.ComputerBasics.pdf)
-- What is a Computer ?
-- Classification of Computer (Based on Size, Work and Purpose)
-- Components of Computer(Basic)
-- Important Components of Computer(Primary Memory, Processor, Secondary Memory)
-### [Version control system](lectures/2.VersionControlSystem.pdf)
-- Git foundation
-- Setting, maintaining and tracking git repos
-- Git snapshots (commit is a snapshot in time)
-- [Git commands](lectures/3.GitCommands.pdf)
-- Git branches
-- Git merging
-- [Git practice](https://github.com/sbhrwl/system_design/blob/main/docs/Other/git/Practice.md)
 ### [Introduction to Java](lectures/4.JavaFundamentals.pdf)
 - Introduction to Programming
 - Basic feature of Java
@@ -56,3 +43,16 @@ Whereas
 - Nested loops
 - If else and nest loops to write complex patterns
 - [Pattern1](exercises/Pattern1.java), [Pattern2](exercises/Pattern2.java), [Pattern3](exercises/Pattern3.java) and [ComplexPattern](exercises/ComplexPattern.java)
+### [Computer basics](lectures/1.ComputerBasics.pdf)
+- What is a Computer ?
+- Classification of Computer (Based on Size, Work and Purpose)
+- Components of Computer(Basic)
+- Important Components of Computer(Primary Memory, Processor, Secondary Memory)
+### [Version control system](lectures/2.VersionControlSystem.pdf)
+- Git foundation
+- Setting, maintaining and tracking git repos
+- Git snapshots (commit is a snapshot in time)
+- [Git commands](lectures/3.GitCommands.pdf)
+- Git branches
+- Git merging
+- [Git practice](https://github.com/sbhrwl/system_design/blob/main/docs/Other/git/Practice.md)
