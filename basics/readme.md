@@ -34,7 +34,7 @@ static public void main(String ... args)
 ### [Operators](lectures/6.Operators.pdf)
 - Operators in Java
 - Incrementation and Decrementation
-### [Exercises](exercises/basic1.java)
+#### [Exercises](exercises/basic1.java)
 ### [Conditional statement](lectures/7.ConditionalStatements.pdf)
 - If - else / Ternary
 - Switch case
