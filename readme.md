@@ -1,6 +1,7 @@
 # Topics
 - [Java basics 1](basics1/readme.md)
 - [Java basics 2](basics2/readme.md)
+- [Java basics 3](basics3/readme.md)
 - Advance Java
 - Getting Started with Database
 - Hanson’s with Sql - MySQL
