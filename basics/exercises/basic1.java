@@ -1,7 +1,19 @@
+import java.util.Scanner;
+
 class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
 // 1. Write a program to print the value of input if it is even and divisible by 3.
+System.out.println("Hello, World! provide valid input"); 
+Scanner scan = new Scanner(System.in);
+int a = scan.nextInt();
+if (a%2 == 0 || a%3 == 0)
+{
+    System.out.println("Hello, World! correct input"); 
+} 
+else {
+    System.out.println("Hello, World! Incorrect input"); 
+}
 // 2. Write a short program that gives the following as output -
 //    - For each multiple of 3, print "Fizz" instead of the number.
 //    - For each multiple of 5, print "Buzz" instead of the number.
@@ -32,3 +44,4 @@ class HelloWorld {
 // 17. Print all factors of the number in the input.
 };
 }
+
