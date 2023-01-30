@@ -1,2 +1,2 @@
 # Topics
-- [Java basics](basics/readme.md)
+- [Java basics](basics1/readme.md)
