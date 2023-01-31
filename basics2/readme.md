@@ -4,10 +4,13 @@
 - Methods with memory maps (JVM data areas)
 <img src="lectures/jvm_memory_areas.jpg"> 
   
-  - Class level binary data including static variables will be stored in method area
-  - Objects and corresponding instance variables will be stored in the Heap area. For every method the JVM will create a Runtime stack, all method calls performed by that Thread and corresponding local variables will be stored in that stack. Every entry in stack is called Stack Frame or Action Record
-  - The instruction which has to execute next will be stored in the corresponding PC Registers.
-  - Native method invocations will be stored in native method stacks. 
+  - Class level binary data including static variables will be stored in `method area`
+  - Objects and corresponding instance variables will be stored in the `Heap area`. 
+    - For every method the JVM will create a `Runtime stack`, 
+    - All method calls performed by that Thread and corresponding local variables will be stored in that stack. 
+    - Every entry in stack is called Stack Frame or Action Record
+  - The instruction which has to execute next will be stored in the corresponding `PC Registers`.
+  - Native method invocations will be stored in `native method stacks`. 
 - [Method overloading](lectures/3.MethodOverloading-AutomaticePromotion.pdf), [exercise](exercises/MethodOverloading.java)
 - [Automatic type promotion](lectures/3.MethodOverloading-AutomaticePromotion.pdf), [exercise](exercises/ObjectCreation.java)
 ### [Array](lectures/1.OopsFundamental.pdf)
