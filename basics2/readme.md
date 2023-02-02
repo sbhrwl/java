@@ -1,6 +1,6 @@
 ### Oops fundamentals
 - [Object creation](lectures/1.ObjectCreation.pdf), [exercise](exercises/ObjectCreation.java)
-- [Instance variable vs local variables](lectures/2.Instance-Localvariables)
+- [Instance variable vs local variables](lectures/2.Instance-Localvariables.pdf)
 - Methods with memory maps (JVM data areas)
 <img src="lectures/jvm_memory_areas.jpg"> 
   
