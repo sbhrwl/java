@@ -14,7 +14,7 @@
 - [Method overloading](lectures/3.MethodOverloading-AutomaticePromotion.pdf), [exercise](exercises/MethodOverloading.java)
 - [Automatic type promotion](lectures/3.MethodOverloading-AutomaticePromotion.pdf), [exercise](exercises/ObjectCreation.java)
 ### [Guessor game](exercises/LaunchGame.java)
-<img src="lectures/guessor_game.jpg">
+<img src="lectures/guessor_game.jpg" height=200 >
 
 ### [Array](lectures/1.OopsFundamental.pdf)
 - Why an array?
