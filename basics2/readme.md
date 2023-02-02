@@ -16,7 +16,7 @@
 ### [Guessor game](exercises/LaunchGame.java)
 <img src="lectures/guessor_game.jpg" height=200 >
 
-### [Array](lectures/1.OopsFundamental.pdf)
+### [Array](lectures/4.ArraysBasics.pdf)
 - Why an array?
 - What is an Array?
 - How to create an array?
