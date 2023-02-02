@@ -20,7 +20,7 @@
 - Why an array?
 - What is an Array?
 - How to create an array?
-- [1d](exercises/OneD.java), [2d](exercises/TwoD.java), 3d and regular [jagged array](exercises/JaggedArray.java), [foreach](exercises/ForEach.java)
+- [1d](exercises/OneD.java), [2d](exercises/TwoD.java), 3d, [jagged array](exercises/JaggedArray.java), [foreach](exercises/ForEach.java)
 - Different ways to create an Array
 - Buffer over run and arrayindexoutofbounds exception
 - Disadvantages of Array in Java
