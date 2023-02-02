@@ -13,6 +13,9 @@
   - Native method invocations will be stored in `native method stacks`. 
 - [Method overloading](lectures/3.MethodOverloading-AutomaticePromotion.pdf), [exercise](exercises/MethodOverloading.java)
 - [Automatic type promotion](lectures/3.MethodOverloading-AutomaticePromotion.pdf), [exercise](exercises/ObjectCreation.java)
+### [Guessor game](exercises/LaunchGame.java)
+<img src="lectures/guessor_game.jpg">
+
 ### [Array](lectures/1.OopsFundamental.pdf)
 - Why an array?
 - What is an Array?
