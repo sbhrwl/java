@@ -23,9 +23,9 @@
 - Different ways to create an Array
   - [1d](exercises/OneD.java), [2d](exercises/TwoD.java), 3d and [jagged array](exercises/JaggedArray.java)
 - [Enhanced `For loop`](exercises/EnhancedForLoop.java)
-- [Length Vs Length()](lectures/5.ArraysBasic-continues.pdf)
-- Anonymous arrays
-- Buffer over run and arrayindexoutofbounds exception
+- [Length Vs Length()](lectures/5.ArraysBasic-continues.pdf), [exercise](exercises/LengthProperty.java)
+- Anonymous arrays, [exercise](exercises/AnonymousArray.java)
+- Buffer over run and arrayindexoutofbounds exception, [exercise](exercises/ArrayIndexOutOfBoundsExceptionExample.java)
 - Disadvantages of Array in Java
 ### [Strings](lectures/1.OopsFundamental.pdf)
 - String Introduction
