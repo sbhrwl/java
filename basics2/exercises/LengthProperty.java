@@ -5,3 +5,11 @@ public class LengthProperty{
 	System.out.println(nums.length);
 	}
 }
+
+public class LengthMethod{
+	public static void main(String[] args){
+		
+	String name= "Navin";
+	System.out.println(name.length());
+	}
+}
