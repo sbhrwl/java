@@ -1,6 +1,9 @@
 # Topics
 - [Java basics 1](basics1/readme.md)
+  - Platform independency, `main()` method, class and object, variables, datatypes, operators, conditional statements
+  - Loops, User inputs via console and pattern programs
 - [Java basics 2](basics2/readme.md)
+  - Oops fundamentals, Arrays, String, `static`
 - [Java basics 3](basics3/readme.md)
 - [Java basics 4](basics4/readme.md)
 - Advance Java
