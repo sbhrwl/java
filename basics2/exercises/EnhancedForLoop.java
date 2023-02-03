@@ -1,4 +1,4 @@
-public class ForEach{
+public class EnhancedForLoop{
 	public static void main(String[] args){
 	
 		int nums[]={5,8,4,3};
@@ -9,7 +9,7 @@ public class ForEach{
 	}
 }
 
-// public class ForEach{
+// public class EnhancedForLoop{
 // 	public static void main(String[] args){
 	
 // 		int nums[][]={
