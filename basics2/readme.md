@@ -27,11 +27,11 @@
 - Anonymous arrays, [exercise](exercises/AnonymousArray.java)
 - Buffer over run and arrayindexoutofbounds exception, [exercise](exercises/ArrayIndexOutOfBoundsExceptionExample.java)
 - Disadvantages of Array in Java
-### [Strings](lectures/1.OopsFundamental.pdf)
+### [Strings](lectures/6.Strings_SCP_Mutability.pdf)
 - String Introduction
 - Types of String
-- Immutable String and Memory Map( Constant Pool)
-- Ways to compare
+- Immutable String and Memory Map(**String Constant Pool**)
+- [Ways to compare](lectures/7.String_Comparisons_Methods_Concatenation.pdf)
 - Inbuilt methods in String class
 - Concatenation
 - Revering String Different cases
