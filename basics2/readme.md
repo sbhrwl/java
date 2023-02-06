@@ -28,18 +28,40 @@
 - Buffer over run and arrayindexoutofbounds exception, [exercise](exercises/ArrayIndexOutOfBoundsExceptionExample.java)
 - Disadvantages of Array in Java
 ### [Strings](lectures/6.Strings_SCP_Mutability.pdf)
-- String Introduction
+- String Introduction `java.lang.String` (no need to import, `lang` packages are available by default)
 - Types of String
 - Immutable String and Memory Map(**String Constant Pool**)
+  - Each copy of a string from Heap is available also in SCP
 - [Ways to compare](lectures/7.String_Comparisons_Methods_Concatenation.pdf)
 - Inbuilt methods in String class
 - Concatenation
+<img src="lecture/concatenation.jpg">
+
 - Revering String Different cases
 - Palindrome
 - Anagram program
 - Pangram program
 - Mutable String
 - String Buffer vs String Builder
+<img src="lecture/builder-buffer.jpg>
+
+```
+public class BufferTest{  
+    public static void main(String[] args){  
+        StringBuffer buffer=new StringBuffer("hello");  
+        buffer.append("java");  
+        System.out.println(buffer);  
+    }  
+}          
+
+public class BuilderTest{  
+    public static void main(String[] args){  
+        StringBuilder builder=new StringBuilder("hello");  
+        builder.append("java");  
+        System.out.println(builder);  
+    }  
+}  
+```
 - Inbuilt Methods
 ### [Static](lectures/1.OopsFundamental.pdf)
 - Static keyword
