@@ -35,7 +35,7 @@
 - [Ways to compare](lectures/7.String_Comparisons_Methods_Concatenation.pdf)
 - Inbuilt methods in String class
 - Concatenation
-<img src="lecture/concatenation.jpg">
+<img src="lectures/concatenation.jpg">
 
 - Revering String Different cases
 - Palindrome
@@ -43,7 +43,7 @@
 - Pangram program
 - Mutable String
 - String Buffer vs String Builder
-<img src="lecture/builder-buffer.jpg>
+<img src="lectures/builder-buffer.jpg">
 
 ```
 public class BufferTest{  
