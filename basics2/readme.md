@@ -39,8 +39,8 @@
 
 - [Revering String Different cases](exercises/Reverse.java)
 - [Palindrome](exercises/Palindrome.java)
-- [Anagram program](exercises/Pangram.java)
-- [Pangram program](exercises/Anagram.java)
+- [Anagram program](exercises/Anagram.java)
+- [Pangram program](exercises/Pangram.java)
 - String Buffer vs String Builder
 <img src="lectures/builder-buffer.jpg">
 
