@@ -37,11 +37,10 @@
 - Concatenation
 <img src="lectures/concatenation.jpg">
 
-- Revering String Different cases
-- Palindrome
-- Anagram program
-- Pangram program
-- Mutable String
+- [Revering String Different cases](exercises/Reverse.java)
+- [Palindrome](exercises/Palindrome.java)
+- [Anagram program](exercises/Pangram.java)
+- [Pangram program](exercises/Anagram.java)
 - String Buffer vs String Builder
 <img src="lectures/builder-buffer.jpg">
 
@@ -62,7 +61,6 @@ public class BuilderTest{
     }  
 }  
 ```
-- Inbuilt Methods
 ### [Static](lectures/1.OopsFundamental.pdf)
 - Static keyword
 - Class loading and How java program actually executes
