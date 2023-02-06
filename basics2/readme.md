@@ -51,7 +51,7 @@ public class BufferTest{
         buffer.append("java");  
         System.out.println(buffer);  
     }  
-}          
+} // hellojava
 
 public class BuilderTest{  
     public static void main(String[] args){  
@@ -59,7 +59,7 @@ public class BuilderTest{
         builder.append("java");  
         System.out.println(builder);  
     }  
-}  
+}  // hellojava
 ```
 ### [Static](lectures/1.OopsFundamental.pdf)
 - Static keyword
