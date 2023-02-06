@@ -8,9 +8,11 @@ public class Anagram
         // String str2="The Classroom Java";
         String str1="keep";
         String str2="peek";
+        
         // Step 1: Remove spaces
         // str1=str1.replace(" ", "");
         // str2=str2.replace(" ", "");
+        
         // Step 2: Change to lower case
         // str1=str1.toLowerCase();
         // str2=str2.toLowerCase();
