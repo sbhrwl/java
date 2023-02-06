@@ -38,9 +38,9 @@
 <img src="lectures/concatenation.jpg">
 
 - [Revering String Different cases](exercises/Reverse.java)
-- [Palindrome](exercises/Palindrome.java)
-- [Anagram program](exercises/Anagram.java)
-- [Pangram program](exercises/Pangram.java)
+- [Palindrome- Same word when written in reverse order](exercises/Palindrome.java)
+- [Anagram program- Two words or sentences conatining same alphabets](exercises/Anagram.java)
+- [Pangram program- Pangram contains all alphabets (A-Z)](exercises/Pangram.java)
 - String Buffer vs String Builder
 <img src="lectures/builder-buffer.jpg">
 
