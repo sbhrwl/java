@@ -33,7 +33,16 @@
 - Memory Map(**String Constant Pool**)
   - Each copy of a string from Heap is available also in SCP
 - Immutable String (`String` class) 
-  - Mutable string: `String Buffer and String Builder` offers mutable string
+- [Ways to compare](lectures/7.String_Comparisons_Methods_Concatenation.pdf)
+- Inbuilt methods in String class
+- Concatenation
+<img src="lectures/concatenation.jpg">
+
+- [Revering String Different cases](exercises/Reverse.java)
+- [Palindrome- Same word when written in reverse order](exercises/Palindrome.java)
+- [Anagram program- Two words or sentences conatining same alphabets](exercises/Anagram.java)
+- [Pangram program- Pangram contains all alphabets (A-Z)](exercises/Pangram.java)
+- [Mutable string: `String Buffer and String Builder` offers mutable string](lectures/8.Mutable_strings.pdf)
 <img src="lectures/builder-buffer.jpg">
 
 ```
@@ -53,16 +62,10 @@ public class BuilderTest{
     }  
 }  // hellojava
 ```
-
-- [Ways to compare](lectures/7.String_Comparisons_Methods_Concatenation.pdf)
-- Inbuilt methods in String class
-- Concatenation
-<img src="lectures/concatenation.jpg">
-
-- [Revering String Different cases](exercises/Reverse.java)
-- [Palindrome- Same word when written in reverse order](exercises/Palindrome.java)
-- [Anagram program- Two words or sentences conatining same alphabets](exercises/Anagram.java)
-- [Pangram program- Pangram contains all alphabets (A-Z)](exercises/Pangram.java)
+- `Final` Vs Mutable string
+  - String initialised as `final`
+    - Content can be changed but it can not be referenced to another string
+- Method chaining
 ### [Static](lectures/1.OopsFundamental.pdf)
 - Static keyword
 - Class loading and How java program actually executes
