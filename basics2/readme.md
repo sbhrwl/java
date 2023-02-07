@@ -66,6 +66,11 @@ public class BuilderTest{
   - String initialised as `final`
     - Content can be changed but it can not be referenced to another string
 - Method chaining
+```
+StringBuffer sb = new StringBuffer();
+sb.append("sachin").insert(6, "tendulkar").reverse().append("IND").delete(0,4).reverse();
+System.out.println(sb);
+```
 ### [Static](lectures/1.OopsFundamental.pdf)
 - Static keyword
 - Class loading and How java program actually executes
