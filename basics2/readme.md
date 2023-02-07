@@ -42,7 +42,7 @@
 - [Palindrome- Same word when written in reverse order](exercises/Palindrome.java)
 - [Anagram program- Two words or sentences conatining same alphabets](exercises/Anagram.java)
 - [Pangram program- Pangram contains all alphabets (A-Z)](exercises/Pangram.java)
-- [Mutable string: `String Buffer and String Builder` offers mutable string](lectures/8.Mutable_strings.pdf)
+- [Mutable string: `String Buffer and String Builder` offers mutable string](lectures/8.Mutable_strings.pdf), [exercise](exercises/Mutable.java)
 <img src="lectures/builder-buffer.jpg">
 
 ```
