@@ -65,6 +65,7 @@ public class BuilderTest{
 - `Final` Vs Mutable string
   - String initialised as `final`
     - Content can be changed but it can not be referenced to another string
+
 <img src="lectures/final_vs_mutability.jpg>
 
 - Method chaining
