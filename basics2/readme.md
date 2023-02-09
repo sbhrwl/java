@@ -71,9 +71,9 @@ StringBuffer sb = new StringBuffer();
 sb.append("sachin").insert(6, "tendulkar").reverse().append("IND").delete(0,4).reverse();
 System.out.println(sb);
 ```
-### [Static](lectures/1.OopsFundamental.pdf)
-- Static keyword
-- Class loading and How java program actually executes
-- Different components in Java program
+### [Static](lectures/9.Static.pdf)
+- Static keyword, [exercise](exercises/DemoStatic.java)
+- [Class loading and How java program actually executes](lectures/10.Java_program_execution.pdf)
+- [Different components in Java program](lectures/11.Java_program_structure.pdf)
 - Static variables, static methods, static block
 - Differences w.r.t Non static and static members of a class
