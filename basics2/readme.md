@@ -36,7 +36,7 @@
 - [Ways to compare](lectures/7.String_Comparisons_Methods_Concatenation.pdf)
 - Inbuilt methods in String class
 - Concatenation
-<img src="lectures/concatenation.jpg" width=200>
+<img src="lectures/concatenation.jpg">
 
 - [Revering String Different cases](exercises/Reverse.java)
 - [Palindrome- Same word when written in reverse order](exercises/Palindrome.java)
@@ -65,7 +65,7 @@ public class BuilderTest{
 - `Final` Vs Mutable string
   - String initialised as `final`
     - Content can be changed but it can not be referenced to another string
-<img src="lectures/final_vs_mutability.jpg" width=200>
+<img src="lectures/final_vs_mutability.jpg" width=500>
 
 - Method chaining
 ```
