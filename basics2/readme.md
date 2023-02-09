@@ -36,7 +36,7 @@
 - [Ways to compare](lectures/7.String_Comparisons_Methods_Concatenation.pdf)
 - Inbuilt methods in String class
 - Concatenation
-<img src="lectures/concatenation.jpg">
+<img src="lectures/concatenation.jpg" width=200>
 
 - [Revering String Different cases](exercises/Reverse.java)
 - [Palindrome- Same word when written in reverse order](exercises/Palindrome.java)
