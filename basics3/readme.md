@@ -2,7 +2,7 @@
 - Need of Encapsulation
 - What is Encapsulation?
 - Private members
-- [Shadowing problem and this keyword](lectures/2.Shadowing-this.pdf), [exercise1](exercises/InitialiseProperties.java), [exercise2](exercises/SettingValuesOfProperties.java)
+- [Shadowing problem and this keyword](lectures/2.Shadowing-this.pdf), [exercise1](exercises/SettingValuesOfProperties.java), [exercise2](exercises/InitialiseProperties.java)
 - [Setters & Getters](lectures/3.Setters-getters.pdf), [exercise](exercises/SettersAndGetters.java)
 ### [Constructor](lectures/4.Constructor.pdf)
 - Constructor, [exercise](exercises/ParametrisedConstructor.java)
