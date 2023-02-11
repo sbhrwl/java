@@ -5,6 +5,7 @@
 - [Java basics 2](basics2/readme.md)
   - Oops fundamentals, Arrays, String, Method chaining, `static`, How java program actually executes, Different components in Java program
 - [Java basics 3](basics3/readme.md)
+  - Encapsulation, Shadowing problem and `this` keyword, Constructor, `super()` Vs `this()` 
 - [Java basics 4](basics4/readme.md)
 - Advance Java
 - Getting Started with Database
