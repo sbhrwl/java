@@ -2,11 +2,11 @@
 - Need of Encapsulation
 - What is Encapsulation?
 - Private members
-- Shadowing problem and this keyword
-- Setters & Getters
-### [Constructor](lectures/2.Constructor.pdf)
+- [Shadowing problem and this keyword](lectures/2.Shadowing-this.pdf)
+- [Setters & Getters](lectures/3.Setters-getters.pdf)
+### [Constructor](lectures/4.Constructor.pdf)
 - Constructor
-- Constructor Chaining (`this() vs super()`)
+- [Constructor Chaining (`this() vs super()`)](lectures/5.super-this.pdf)
 ### [Inheritance](lectures/3.Inheritance.pdf)
 - Inheritance intro
 - `extends` keyword
