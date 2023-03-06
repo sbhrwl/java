@@ -7,7 +7,7 @@
 - [Java basics 3](basics3/readme.md)
   - Encapsulation, Shadowing problem and `this` keyword, Constructor, `super()` Vs `this()` 
   - Inheritance, Rules to override method, Polymorphism (Method Overriding), Abstract keyword and Abstraction, final keyword
-  - Interfaces, Lambda
+  - Interfaces, Abstract vs Interface, Marker Interface, Functional Interface, Java 8 features and **Lambda**
 - [Java basics 4](basics4/readme.md)
 - Advance Java
 - Getting Started with Database
