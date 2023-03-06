@@ -31,16 +31,18 @@
 - final method
 <img src="lectures/10.final.jpg">
 
-### Interface
+### [Interface](lectures/12.Interfaces.pdf)
 - What is interface?
 - Need of Interface
 - Important key points of Interface
-- Abstract vs interface
-- Additional features of Interface
-- Functional Interface
-### [Lambda Expression](lectures/12.Lambda.pdf)
+- [Abstract vs interface](lectures/14.InterfaceVsAbstractClass.pdf)
+- Marker Interface
+<img src="lectures/13.MarkerInterface.jpg">
+
+- [Additional features of Interface- Java8 features](lectures/15.Java8Features.pdf)
+### [Lambda Expression](lectures/16.Lambda.pdf)
 - What is Lambda Expression
 - Different ways to create Lambda Expression
 - Lambda Expression excercises
-- [Functional Interfaces](lectures/13.FunctionalInterfaces.pdf)
-### 
+- [Functional Interfaces](lectures/17.FunctionalInterfaces.pdf)
+
