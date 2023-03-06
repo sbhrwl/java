@@ -38,8 +38,9 @@
 - Abstract vs interface
 - Additional features of Interface
 - Functional Interface
-### Lambda Expression
+### [Lambda Expression](lectures/12.Lambda.pdf)
 - What is Lambda Expression
 - Different ways to create Lambda Expression
 - Lambda Expression excercises
+- [Functional Interfaces](lectures/13.FunctionalInterfaces.pdf)
 ### 
