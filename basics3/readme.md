@@ -12,8 +12,8 @@
 - `extends` keyword
 - [Types of Inheritance](lectures/7.InheritanceTypes.pdf)
 - Important key points (5 keypoints)
-  - [Multiple Inheritance]((exercises/Multiple_Inheritance.java), [Inheritance Human Example]((exercises/InheritanceHumanExample.java)
-  - [Inheritance example to implement parent class method]((exercises/InheritanceImplementParentClassMethod.java), [Aeroplane Inheritance example]((exercises/Aeroplane_Inheritance.java)
+  - [Multiple Inheritance](exercises/Multiple_Inheritance.java), [Inheritance Human Example](exercises/InheritanceHumanExample.java)
+  - [Inheritance example to implement parent class method](exercises/InheritanceImplementParentClassMethod.java), [Aeroplane Inheritance example](exercises/Aeroplane_Inheritance.java)
 - Types of methods Inherited, overidden, specialized
 - Rules to override method
 - Constructor execution in case of Inheritance, [Constructor example with `this`]((exercises/ConstructorExampleWithThis.java)
