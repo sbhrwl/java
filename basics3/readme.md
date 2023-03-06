@@ -16,7 +16,7 @@
   - [Inheritance example to implement parent class method](exercises/InheritanceImplementParentClassMethod.java), [Aeroplane Inheritance example](exercises/Aeroplane_Inheritance.java)
 - Types of methods Inherited, overidden, specialized
 - Rules to override method
-- Constructor execution in case of Inheritance, [Constructor example with `this`]((exercises/ConstructorExampleWithThis.java)
+- Constructor execution in case of Inheritance, [Constructor example with `this`](exercises/ConstructorExampleWithThis.java)
 ### [Polymorphism and Abstraction](lectures/5.PolymorphismAndAbstraction.pdf)
 - What is polymorphism?
 - How to achieve polymorphism
