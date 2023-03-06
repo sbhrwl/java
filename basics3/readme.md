@@ -7,14 +7,16 @@
 ### [Constructor](lectures/4.Constructor.pdf)
 - Constructor, [exercise](exercises/ParametrisedConstructor.java)
 - [Constructor Chaining (`this() vs super()`)](lectures/5.super-this.pdf), [exercise](exercises/SuperThis.java)
-### [Inheritance](lectures/3.Inheritance.pdf)
+### [Inheritance](lectures/6.Inheritance.pdf)
 - Inheritance intro
 - `extends` keyword
-- Types of Inheritance
+- [Types of Inheritance](lectures/7.InheritanceTypes.pdf)
 - Important key points (5 keypoints)
+  - [Multiple Inheritance]((exercises/Multiple_Inheritance.java), [Inheritance Human Example]((exercises/InheritanceHumanExample.java)
+  - [Inheritance example to implement parent class method]((exercises/InheritanceImplementParentClassMethod.java), [Aeroplane Inheritance example]((exercises/Aeroplane_Inheritance.java)
 - Types of methods Inherited, overidden, specialized
 - Rules to override method
-- Constructor execution in case of Inheritance
+- Constructor execution in case of Inheritance, [Constructor example with `this`]((exercises/ConstructorExampleWithThis.java)
 ### [Polymorphism and Abstraction](lectures/5.PolymorphismAndAbstraction.pdf)
 - What is polymorphism?
 - How to achieve polymorphism
