@@ -17,16 +17,20 @@
 - Types of methods Inherited, overidden, specialized
 - Rules to override method
 - Constructor execution in case of Inheritance, [Constructor example with `this`](exercises/ConstructorExampleWithThis.java)
-### [Polymorphism and Abstraction](lectures/5.PolymorphismAndAbstraction.pdf)
+### [Polymorphism and Abstraction](lectures/8.Polymorphism.pdf)
 - What is polymorphism?
 - How to achieve polymorphism
+  - Method Overriding
 - Runtime vs Compile time polymorphism
-- Abstract keyword and Abstraction
+- [Abstract keyword and Abstraction](lectures/9.Abstraction.pdf)
 - Abstract class and Abstract method
-### [`final` keyword]()
+- [OOPS assignment](lectures/11.OOPS-assignment.pdf)
+### `final` keyword
 - final class
 - final variable
 - final method
+<img src="lectures/10.final.jpg">
+
 ### Interface
 - What is interface?
 - Need of Interface
