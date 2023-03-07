@@ -3,10 +3,14 @@
   - Platform independency, `main()` method, class and object, variables, datatypes, operators, conditional statements
   - Loops, User inputs via console and pattern programs
 - [OOPS-1](basics2/readme.md)
-  - Oops fundamentals, Arrays, String, Method chaining, `static`, How java program actually executes, Different components in Java program
+  - Oops fundamentals
+  - Arrays, String, Method chaining, `static`
+  - How java program actually executes, Different components in Java program
 - [OOPS-2](basics3/readme.md)
   - Encapsulation, Shadowing problem and `this` keyword, Constructor, `super()` Vs `this()` 
-  - Inheritance, Rules to override method, Polymorphism (Method Overriding), Abstract keyword and Abstraction, final keyword
+  - Inheritance, Rules to override method
+  - Polymorphism (Method Overriding) 
+  - Abstract keyword and Abstraction, final keyword
   - Interfaces, Abstract vs Interface, Marker Interface, Functional Interface, Java 8 features
   - **Lambda**
 - [Exception handling](basics4/readme.md)
