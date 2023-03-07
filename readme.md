@@ -16,7 +16,7 @@
 - [Exception handling](basics4/readme.md)
 - Advance Java
 - Getting Started with Database
-- Hanson’s with Sql - MySQL
+- Handson with Sql - MySQL
 - Exploring MongoDB
 - Learning JDBC
 - Introduction to Algorithms and Analysis
