@@ -1,14 +1,15 @@
 # Topics
-- [Java basics 1](basics1/readme.md)
+- [Java basics](basics1/readme.md)
   - Platform independency, `main()` method, class and object, variables, datatypes, operators, conditional statements
   - Loops, User inputs via console and pattern programs
-- [Java basics 2](basics2/readme.md)
+- [OOPS-1](basics2/readme.md)
   - Oops fundamentals, Arrays, String, Method chaining, `static`, How java program actually executes, Different components in Java program
-- [Java basics 3](basics3/readme.md)
+- [OOPS-2](basics3/readme.md)
   - Encapsulation, Shadowing problem and `this` keyword, Constructor, `super()` Vs `this()` 
   - Inheritance, Rules to override method, Polymorphism (Method Overriding), Abstract keyword and Abstraction, final keyword
-  - Interfaces, Abstract vs Interface, Marker Interface, Functional Interface, Java 8 features and **Lambda**
-- [Java basics 4](basics4/readme.md)
+  - Interfaces, Abstract vs Interface, Marker Interface, Functional Interface, Java 8 features
+  - **Lambda**
+- [Exception handling](basics4/readme.md)
 - Advance Java
 - Getting Started with Database
 - Hanson’s with Sql - MySQL
