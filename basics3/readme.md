@@ -22,13 +22,15 @@
 - How to achieve polymorphism
   - Method Overriding
 - Runtime vs Compile time polymorphism
+  - [Call child class method via parent class `Ref`](exercises/CallChildClassMethodWithParentClassRef.java), [Polymorphism demo](exercises/PolymorphismDemo.java)
 - [Abstract keyword and Abstraction](lectures/9.Abstraction.pdf)
-- Abstract class and Abstract method
+- Abstract class and Abstract method, [Abstraction demo](exercises/AbstractionDemo.java)
 - [OOPS assignment](lectures/11.OOPS-assignment.pdf)
 ### `final` keyword
 - final class
 - final variable
 - final method
+  - [exercise](exercises/FinalKeywordDemo.java)
 <img src="lectures/10.final.jpg">
 
 ### [Interface](lectures/12.Interfaces.pdf)
